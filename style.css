@@ -1,0 +1,40 @@
+body, html {
+  overflow-x: hidden;
+}
+
+.main-heading {
+  font-size: 25vw;
+  font-family: Montserrat;
+}
+
+.navbar-brand {
+  font-family: Montserrat;
+}
+
+.second-block {
+  background: url("../media/alevision-co-vTA42h-v0pw-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.main-block {
+  background: linear-gradient(25deg, black, #434242);
+}
+
+.heading {
+  font-family: Montserrat;
+  font-size: 8vw;
+}
+
+.space-main-block {
+  background: url("../media/spacex-MEW1f-yu2KI-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.neural-main-block {
+  background: url("../media/chris-liverani-dBI_My696Rk-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+}
+/*# sourceMappingURL=style.css.map */
